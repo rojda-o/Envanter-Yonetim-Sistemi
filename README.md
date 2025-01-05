@@ -44,7 +44,7 @@ Yeni ürün eklemek için:
 
 1. Ana menüden "Ürün Ekle" seçin.
 2. Gerekli bilgileri doldurun: Ürün adı, kategori, stok adedi, fiyat.
-3. İşlem sonrası ürün bilgileri depo.csv dosyasına kaydedilir.
+3. İşlem sonrası ürün bilgileri **depo.csv** dosyasına kaydedilir.
 
 ### 4. Ürün Listeleme
 1. Ana menüden "Ürün Listele" seçin.
@@ -52,12 +52,12 @@ Yeni ürün eklemek için:
 
 ### 5. Ürün Güncelleme
 1. Ana menüden "Ürün Güncelle" seçin.
-2. Güncellemek istediğiniz ürün adını girin.
+2. Güncellemek istediğiniz ürün ID numarasını girin.
 3. Yeni bilgileri girerek ürün kaydını güncelleyin.
 
 ### 6. Ürün Silme
 1. Ana menüden "Ürün Sil" seçin.
-2. Silmek istediğiniz ürünün numarasını girin.
+2. Silmek istediğiniz ürünün ID numarasını girin.
 3. Onay verdiğinizde ürün depo.csv dosyasından kaldırılır.
 
 ### 7. Rapor Alma
@@ -72,7 +72,7 @@ Bu bölümde:
 - Kullanıcı silme
 - Kilit açma işlemleri yapılabilir.
 
-Kullanıcı bilgileri kullanicilar.csv dosyasında saklanır
+Kullanıcı bilgileri **kullanicilar.csv** dosyasında saklanır
 
 ### 9. Program Yönetimi
 Programın yedekleme ve bakımı için kullanılır. Bu menüde:
@@ -81,7 +81,8 @@ Programın yedekleme ve bakımı için kullanılır. Bu menüde:
 - Hata Kayıtlarını Göster
 
 seçenekleri bulunur. <br>
-Buradan **diske yedekleme** işlemi manuel olarak yapılabilir ancak veri kayıplarını önlemek amacıyala **yedek_al.sh** ile düzenli olarak veri yedekleme işlemi gerçekleştirilir.
+Buradan **diske yedekleme** işlemi manuel olarak yapılabilir. <br>
+Aynı zamanada veri kayıplarını önlemek amacıyla **yedek_al.sh** ile düzenli olarak veri yedekleme işlemi gerçekleştirilir.
 
 ### 10. Kullanıcı Menüsü
 Giriş ekranından yönetici olarak giriş yapıldığı zaman **ana_menu.sh**'ye erişilir. Normal kullanıcı ile giriş yapıldığı zaman ise **kullanici_menu.sh**'ye erişilir. Çünkü **yönetici** ve **kullanıcı**'nın erişim izinleri farklıdır. Bu menüde:
