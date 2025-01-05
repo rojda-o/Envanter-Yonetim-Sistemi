@@ -122,7 +122,7 @@ işlemleri yapılabilir.
 ## Tanıtım Videosu
 Sistemin tanıtımını ve kullanımını detaylı olarak gösteren videoyu aşağıdaki bağlantıdan izleyebilirsiniz: 
 
-[🔗 Tanıtım Videosunu](https://youtu.be/IweGBOsJLHQ)
+[🔗 Tanıtım Videosu](https://youtu.be/IweGBOsJLHQ)
 
 
 
