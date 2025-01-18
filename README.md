@@ -125,8 +125,9 @@ Sistemin tanıtımını ve kullanımını detaylı olarak gösteren videoyu aşa
 
 [🔗 Tanıtım Videosu](https://youtu.be/IweGBOsJLHQ)
 
-
-
+## Usage
+```bash
+github.com/rojda-o/Envanter-Yonetim-Sistemi
 
 
 
