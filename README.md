@@ -124,17 +124,3 @@ işlemleri yapılabilir.
 Sistemin tanıtımını ve kullanımını detaylı olarak gösteren videoyu aşağıdaki bağlantıdan izleyebilirsiniz: 
 
 [🔗 Tanıtım Videosu](https://youtu.be/IweGBOsJLHQ)
-<br>
-
-[Repository Linki](github.com/rojda-o/Envanter-Yonetim-Sistemi)
-
-
-
-
-
-
-
-
-
-
-
