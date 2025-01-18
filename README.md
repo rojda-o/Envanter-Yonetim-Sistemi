@@ -124,10 +124,9 @@ işlemleri yapılabilir.
 Sistemin tanıtımını ve kullanımını detaylı olarak gösteren videoyu aşağıdaki bağlantıdan izleyebilirsiniz: 
 
 [🔗 Tanıtım Videosu](https://youtu.be/IweGBOsJLHQ)
+<br>
 
-## Usage
-```bash
-github.com/rojda-o/Envanter-Yonetim-Sistemi
+[Repository Linki](github.com/rojda-o/Envanter-Yonetim-Sistemi)
 
 
 
